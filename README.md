@@ -11,7 +11,7 @@ A document of the work done to my '95 BMW M3 Coupe
 
 ## Electrical
 ### Notes
-- New, factory-coded Ignition module and key
+- New, factory-coded Ignition module and key ~2015
 ### Mods
 - Mostly-deleted Amp / stereo upgrade
 
