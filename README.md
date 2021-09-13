@@ -7,6 +7,7 @@ A document of the work done to my '95 BMW M3 Coupe
   - Splash guards are not well attached
 ### Mods
 - Lowered
+- LTW / 'Vert wheels
 
 ## Electrical
 ### Notes
