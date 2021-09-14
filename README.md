@@ -1,6 +1,16 @@
 # m3-history
 A document of the work done to my '95 BMW M3 Coupe
 
+## Parts Bin
+Parts on hand waiting to be installed:
+- Bimmerworld Silicone Radiator Hoses
+- Electronic Fan / Fan Delete Mod
+- New (uncorroded) Aluminum Thermostat Housing
+- Low temp (80c) "Performance" Thermostat
+
+Parts to order:
+- Bimmerworld Silicone Throttle Body Boot for Euro-spec MAF
+
 ## Suspension
 ### Notes
 - Fronts rub on full-lock
@@ -22,6 +32,12 @@ A document of the work done to my '95 BMW M3 Coupe
 ### Mods
 - Lightened flywheel
 - Stage 2 Clutch
+
+## Cooling
+### Mods
+- Mishimoto Performance Aluminum Radiator
+- URO Aluminum Thermostat Housing
+- Replaced Rubber Radiator hoses
 
 ## Intake
 ### Notes
