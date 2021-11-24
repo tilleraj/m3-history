@@ -39,6 +39,7 @@ Black Friday Sales:
 
 Potential future mods:
 - [Dirver's Side Air Vent Gauge Pod](http://ortizcustompods.com/bmw.html#)
+- [17x9 Apex ARC-8 ET42](https://www.apexraceparts.com/shop-by-vehicle/bmw/e36-and-e36-m3/e36-street-track/e46-non-m-17-bolt-on-track-wheel-package.html) + 245/40R-17 Tires and 8 to 12 mm spacers up front
 
 ## Suspension
 ### Notes
