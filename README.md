@@ -7,9 +7,35 @@ Parts on hand waiting to be installed:
 - Electronic Fan / Fan Delete Mod
 - New (uncorroded) Aluminum Thermostat Housing
 - Low temp (80c) "Performance" Thermostat
+- Bimmerworld Silicone Throttle Body Boot for Euro-spec MAF
+- 4x Brake Rotors & Pads
+- Front Control Arm Overhaul Kit
+- Wheel Studs & Nuts
+- Clutch Stop
 
 Parts to order:
-- Bimmerworld Silicone Throttle Body Boot for Euro-spec MAF
+- New Radiator (CSF?)
+- Waterpump
+- Aluminum Water Pump Pulley Kit (FCP Euro)
+- Serpentine Belt
+- Expansion Tank
+- Coolant Level Sensor
+- Coolant
+- Oil
+- Magnetic Drain Plug + Gasket
+- Radiator Mount Bracket
+- Sleeper Bushing Kit from Condor Speed Shop (Black Friday [actually Friday])
+- Bilstein B8 Shock/Strut Package (Turner package is $100 less)
+- Shock/Strut mounts & reinforcement (Turner?)
+- Waterpump
+- Sheet aluminum
+- Rivet gun
+
+Black Friday Sales:
+- Bimmerworld (probably not)
+- Condor Speed Shop (actually Friday, 20% off)
+- Turner Motorsport (all week)
+- FCP Euro (Thursday?)
 
 Potential future mods:
 - [Dirver's Side Air Vent Gauge Pod](http://ortizcustompods.com/bmw.html#)
