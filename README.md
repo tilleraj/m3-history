@@ -36,6 +36,7 @@ Black Friday Sales:
 - Condor Speed Shop (actually Friday, 20% off)
 - Turner Motorsport (all week)
 - FCP Euro (Thursday?)
+- Check Rock Auto
 
 Potential future mods:
 - [Dirver's Side Air Vent Gauge Pod](http://ortizcustompods.com/bmw.html#)
